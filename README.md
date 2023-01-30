@@ -36,9 +36,8 @@ To make a request to the API, you can use a tool such as curl or Postman, or you
 
 * [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
 
+### Special Thanks
 Thanks to **Hazal Güçlü** for her support in development.
-
-** 
 
 ### License
 
