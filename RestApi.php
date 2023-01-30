@@ -1,5 +1,15 @@
 <?php
 
+/**
+ *
+ * REST api
+ *
+ * @author [ramazancetinkaya]
+ * @author [Hazal Güçlü]
+ * @date [30.01.2023]
+ *
+ */
+
 class RestApi
 {
     /**
