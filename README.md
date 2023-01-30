@@ -1,4 +1,4 @@
-# PHP REST API
+# REST and REST API
 
 REST (Representational State Transfer) is a software architectural style for building web services. REST APIs (Application Programming Interfaces) provide a way for different systems to communicate over the internet by sending requests to retrieve or manipulate data. REST APIs use HTTP methods such as GET, POST, PUT, DELETE to operate on resources identified by URIs (Uniform Resource Identifiers). REST APIs are commonly used for web-based applications, mobile applications, and microservices.
 
