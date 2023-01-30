@@ -1,7 +1,7 @@
 # PHP-REST-API
-REST API class
+Here is an example of a REST API class written using PHP.
 
-## Here's an example:
+## Example Usage:
 
 ```php
 // Require the REST API class
