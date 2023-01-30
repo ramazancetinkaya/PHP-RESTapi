@@ -34,7 +34,7 @@ To make a request to the API, you can use a tool such as curl or Postman, or you
 
 **Ramazan Çetinkaya**
 
-* [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
+- [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
 
 ### Special Thanks
 Thanks to **<a href="#">Hazal Güçlü</a>** for her support in development.
