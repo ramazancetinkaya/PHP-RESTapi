@@ -26,9 +26,9 @@ $api->registerEndpoint('GET', '/users', function ($params) {
 $api->start();
 ```
 
-This example registers a single endpoint that handles GET requests to the /users URL. When this endpoint is called, the function passed as the third argument will be executed, and the response data returned from the function will be returned as the endpoint response.
+This example registers a single endpoint that handles GET requests to the **/users** URL. When this endpoint is called, the function passed as the third argument will be executed, and the response data returned from the function will be returned as the endpoint response.
 
-To make a request to the API, you can use a tool such as curl or Postman, or you can use a HTTP client library in your programming language of choice. The request URL would be the base URL of the API (e.g. http://localhost/api/) plus the endpoint URL (e.g. /users). The request method would be GET, as specified in the endpoint registration.
+To make a request to the API, you can use a tool such as curl or Postman, or you can use a HTTP client library in your programming language of choice. The request URL would be the base URL of the API (e.g. **http://localhost/api/**) plus the endpoint URL (e.g. **/users**). The request method would be **GET**, as specified in the endpoint registration.
 
 ### Authors
 
@@ -37,7 +37,7 @@ To make a request to the API, you can use a tool such as curl or Postman, or you
 * [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
 
 ### Special Thanks
-Thanks to **<a href="">Hazal Güçlü</a>** for her support in development.
+Thanks to **<a href="#">Hazal Güçlü</a>** for her support in development.
 
 ### License
 
