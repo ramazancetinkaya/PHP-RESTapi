@@ -1,6 +1,8 @@
 # PHP-REST-API
 Here is an example of a REST API class written using PHP.
 
+_Before we begin, this class may not be the final version, changes and additions may be made._
+
 ## Example Usage:
 
 ```php
@@ -27,3 +29,13 @@ $api->start();
 This example registers a single endpoint that handles GET requests to the /users URL. When this endpoint is called, the function passed as the third argument will be executed, and the response data returned from the function will be returned as the endpoint response.
 
 To make a request to the API, you can use a tool such as curl or Postman, or you can use a HTTP client library in your programming language of choice. The request URL would be the base URL of the API (e.g. http://localhost/api/) plus the endpoint URL (e.g. /users). The request method would be GET, as specified in the endpoint registration.
+
+### Author
+
+**Ramazan Çetinkaya**
+
+* [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
+
+### License
+
+Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
