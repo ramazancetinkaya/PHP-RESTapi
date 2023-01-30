@@ -1,4 +1,4 @@
-# PHP-REST-API
+# PHP REST API
 Here is an example of a REST API class written using PHP.
 
 _Before we begin, this class may not be the final version, changes and additions may be made._
