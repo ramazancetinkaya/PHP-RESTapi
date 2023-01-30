@@ -1,5 +1,6 @@
 # PHP REST API
-Here is an example of a REST API class written using PHP.
+
+REST (Representational State Transfer) is a software architectural style for building web services. REST APIs (Application Programming Interfaces) provide a way for different systems to communicate over the internet by sending requests to retrieve or manipulate data. REST APIs use HTTP methods such as GET, POST, PUT, DELETE to operate on resources identified by URIs (Uniform Resource Identifiers). REST APIs are commonly used for web-based applications, mobile applications, and microservices.
 
 _Before we begin, this class may not be the final version, changes and additions may be made._
 
