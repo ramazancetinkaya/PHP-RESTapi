@@ -2,7 +2,7 @@
 
 /**
  *
- * Class (REST API)
+ * Class RestApi
  *
  * @author [ramazancetinkaya]
  * @author [Hazal Güçlü]
