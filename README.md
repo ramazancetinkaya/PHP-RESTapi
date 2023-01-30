@@ -30,6 +30,8 @@ This example registers a single endpoint that handles GET requests to the /users
 
 To make a request to the API, you can use a tool such as curl or Postman, or you can use a HTTP client library in your programming language of choice. The request URL would be the base URL of the API (e.g. http://localhost/api/) plus the endpoint URL (e.g. /users). The request method would be GET, as specified in the endpoint registration.
 
+--
+
 ### Author
 
 **Ramazan Çetinkaya**
